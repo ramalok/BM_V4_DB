@@ -10,6 +10,7 @@
 	-Classified to class-level using several reference databases and Blast searches
 	-5775 sequences, about 380 bp in size
 	-The codes are: OTU number - Class - Supergroup - Number of reads
+	               [   114    Apicomplexa Alveolata         819 ]	
 
 
 ### SOURCE 
