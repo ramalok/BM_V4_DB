@@ -1,6 +1,6 @@
 ##Database including the most abundant OTUs (at 97% clustering) from pyroreads from the BioMarKs survey
 
-	Database name: BM_V4
+	Database name: BM_V4_DB
 	Version: 5775 | November 2015
 	Ramon Massana : ramonm at icm.csic.es
 
