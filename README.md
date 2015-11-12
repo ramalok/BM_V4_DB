@@ -1,9 +1,7 @@
-# BM_V4_DB
+##Database including the most abundant OTUs (at 97% clustering) from pyroreads from the BioMarKs survey
 
-#Database including the most abundant OTUs (at 97% clustering) from pyroreads from the BioMarKs survey
-
-### Version: BM_V4_5775 | November 2015
-
+	Version: BM_V4_5775 | November 2015
+	Ramon Massana : ramonm at icm.csic.es
 
 
 ### DESCRIPTION
